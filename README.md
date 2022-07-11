@@ -79,11 +79,11 @@ How is the correspondence between actual and formal parameters established?
 - The first actual parameter is assigned to the first formal parameter
 - The second actual parameter is assigned to the second formal parameters and so on 
 
-![parameter](parameter.jpeg)
+![parameter](parameter.JPG)
 **keyword parameter**
 
 ![kparameter](kparameter.png)
-
+![kparameter](kparameter.JPG)
 - In Keyword Parameter the position does not matter 
 
 **Parameter Value Transmission**
