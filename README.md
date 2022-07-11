@@ -62,7 +62,7 @@ A **memory leak** is when a user ask for memory that was never freed
 An **exception** is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions
 
 Example of this
-![exception](exception.png)
+![exception](exception .png)
 
 **Checked vs. Unchecked Exceptions** 
 - uncheck are exceptions that do not have to be caught by an explicit try/catch block. These typically represent unrecoverable errors or unforseen/unplannable exceptions
@@ -79,6 +79,7 @@ How is the correspondence between actual and formal parameters established?
 - The first actual parameter is assigned to the first formal parameter
 - The second actual parameter is assigned to the second formal parameters and so on 
 
+![parameter](parameter.jpeg)
 **keyword parameter**
 
 ![kparameter](kparameter.png)
